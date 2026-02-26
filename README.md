@@ -32,6 +32,6 @@ Ubuntu / Debian 系環境で **pyenv のインストールと初期設定を一�
 ### 方法1: clone して実行（推奨）
 
 ```bash
-git clone https://github.com/tel-anydo/install_pyenv.git
+git clone https://github.com/tel-anydo/install_pyenv.sh
 cd install_pyenv
 bash install_pyenv.sh
